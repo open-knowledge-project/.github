@@ -1,0 +1,85 @@
+# Open Knowledge Project · 开放知识计划
+
+---
+
+# 开放知识计划
+
+**开放知识计划（Open Knowledge Project）** 致力于编写和传播免费、开放、共享的教学文档。我们相信知识应当无门槛地流动，让每一个人都能平等地获取优质的学习资源。
+
+## 我们在做什么
+
+我们组织专注于技术领域的教学文档编写，目标包括：
+
+- **打破知识付费门槛** — 让优质教程不再被困在付费墙后面
+- **传承人类知识库** — 将散落的技术知识整理成系统化的学习材料
+- **协作共建** — 开放协作编写，欢迎每一个人参与贡献
+
+## 我们的项目
+
+### Mathematical-Fundamentals-Tutorial-for-Machine-Learning
+一整套关于机器学习数学基础的教程文档，涵盖线性代数、概率统计、优化理论等核心内容。
+- GitHub: https://github.com/open-knowledge-project/Mathematical-Fundamentals-Tutorial-for-Machine-Learning
+
+### Flex-Bison-Tutorial
+Flex 与 Bison 的中文教程，帮助读者掌握词法分析器与语法分析器的编写。
+- GitHub: https://github.com/open-knowledge-project/Flex-Bison-Tutorial
+
+## 为什么选择我们
+
+- **完全免费** — 所有文档免费阅读、下载，无任何付费门槛
+- **开源协作** — 开放许可证，欢迎提交 Issue 与 Pull Request
+- **中文优先** — 专注中文技术文档，降低学习曲线的第一步门槛
+- **持续更新** — 随着技术演进和社区反馈，文档持续迭代优化
+
+## 如何参与
+
+我们欢迎任何形式的贡献！
+
+1. **Star / Fork** — 在 GitHub 上关注我们，将仓库 Fork 到你的账户
+2. **Issue** — 发现文档中的错误、遗漏，或有新主题推荐？提交 Issue
+3. **Pull Request** — 直接编辑文档内容，通过 PR 参与协作编写
+4. **传播分享** — 如果你觉得这些资源有价值，将它们分享给需要的朋友和同学
+
+---
+
+# Open Knowledge Project
+
+**Open Knowledge Project** is dedicated to creating and spreading **free, open, and shared** educational documents. We believe that knowledge should flow freely, allowing everyone equal access to quality learning resources.
+
+## What We Do
+
+Our organization focuses on technical educational documentation, with the following goals:
+
+- **Breaking Down Paywalls** — Ensuring quality tutorials are no longer trapped behind paid subscriptions
+- **Preserving Human Knowledge** — Organizing scattered technical knowledge into systematic learning materials
+- **Collaborative Building** — Open collaboration, everyone is welcome to contribute
+
+## Our Projects
+
+### Mathematical-Fundamentals-Tutorial-for-Machine-Learning
+A comprehensive tutorial series on the mathematical foundations of machine learning, covering linear algebra, probability and statistics, optimization theory, and other core topics.
+- GitHub: https://github.com/open-knowledge-project/Mathematical-Fundamentals-Tutorial-for-Machine-Learning
+
+### Flex-Bison-Tutorial
+A Chinese tutorial on Flex and Bison, guiding readers through lexical and syntax analysis.
+- GitHub: https://github.com/open-knowledge-project/Flex-Bison-Tutorial
+
+## Why Choose Us
+
+- **Completely Free** — All documents are free to read and download, no paywalls
+- **Open Collaboration** — Open-source licenses, Issues and Pull Requests welcome
+- **Chinese-First** — Focus on Chinese technical documentation, lowering the first barrier to learning
+- **Continuously Updated** — Documentation evolves with technology and community feedback
+
+## How to Contribute
+
+We welcome contributions in any form!
+
+1. **Star / Fork** — Follow us on GitHub and Fork repositories to your account
+2. **Issue** — Found errors or omissions, or have topic suggestions? Submit an Issue
+3. **Pull Request** — Edit document content directly and participate through PR
+4. **Share** — If you find these resources valuable, share them with friends and classmates who need them
+
+---
+
+*This profile is maintained at [open-knowledge-project/.github](https://github.com/open-knowledge-project/.github)*
